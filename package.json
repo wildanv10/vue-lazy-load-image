@@ -1,5 +1,5 @@
 {
-  "name": "vue-lazy-load-image",
+  "name": "@wildanv10/vue-lazy-load-image",
   "version": "0.0.1",
   "description": "Load an image sequentially to improve the load time.",
   "author": "wildanv10",
@@ -16,6 +16,8 @@
     "*.json",
     "*.js"
   ],
+  "repository": "https://github.com/wildanv10/vue-lazy-load-image",
+  "bugs": "https://github.com/wildanv10/vue-lazy-load-image/issues",
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
