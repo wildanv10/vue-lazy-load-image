@@ -13,7 +13,7 @@
   "files": [
     "dist/*",
     "*.md",
-    "*.json",
+    "package.json",
     "*.js"
   ],
   "repository": "https://github.com/wildanv10/vue-lazy-load-image",
@@ -30,7 +30,8 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "uglifyjs-webpack-plugin": "^2.2.0",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "webpack-bundle-analyzer": "^4.4.2"
   },
   "eslintConfig": {
     "root": true,
